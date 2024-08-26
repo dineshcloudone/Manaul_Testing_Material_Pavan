@@ -1,0 +1,65 @@
+Day-12
+-------
+STLC
+----------
+1) Understanding requirements
+2) How to prepare test plan
+3) Test scenarios
+4) Test cases
+5) RTM
+6) Build deployment
+
+
+Developers provide the build along with release notes.
+
+Release notes
+-----------
+version no
+new features added
+bug fixes
+open bugs/Known bugs
+installation steps
+Environment
+
+Download opencart build  - 3.0.3.9
+
+XAMP tool - 7.4.33
+---------
+MySQL
+PHP
+Tomcat
+
+Alternate URL: https://tutorialsninja.com/demo/
+
+
+
+
+
+P0 - SMOKE & SANITY
+P1
+P2
+P3 - UI test cases
+
+
+P1- smoke & Sanity
+P2 - major functionalioties
+P3 - UI test cases
+
+
+Assignment
+---------
+Execute test cases
+-------
+smoke tests
+sanity tests
+Registration & Login tests , find out hte defects and then update results in separate sheet.
+
+
+
+
+
+
+
+
+
+
